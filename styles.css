@@ -17,32 +17,43 @@ footer {
 }
 
 .w {
-
+background-color: #283149;
+background: url("./images/keys/w.png") no-repeat;
 }
+
+.w:active {color: azure;} 
+
 
 .a {
-
+  background: url("./images/keys/a.png") no-repeat;
 }
+
+.a:active {color: azure} 
 
 .s {
-
+  background: url("./images/keys/s.png") no-repeat;
 }
+.s:active {color: azure} 
 
 .d {
-
+  background: url("./images/keys/d.png") no-repeat;
 }
+.d:active {color: azure} 
 
 .j {
-
+  background: url("./images/keys/j.png") no-repeat;
 }
+.j:active {color: azure} 
 
 .k {
-
+  background: url("./images/keys/k.png") no-repeat;
 }
+.k:active {color: azure} 
 
 .l {
-
+  background: url("./images/keys/l.png") no-repeat;
 }
+.l:active {color: azure} 
 
 .set {
   margin: 10% auto;
